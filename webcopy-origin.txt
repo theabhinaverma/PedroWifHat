@@ -1,0 +1,296 @@
+Uri: https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\npm\swiper@8\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\npm\swiper@8\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;900&display=swap
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://pedrotheraccoon.org/
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\index.htm
+Content Type: text/html
+
+Uri: https://pedrotheraccoon.org/assets/css/styles.css
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://pedrotheraccoon.org/assets/icons/coingecko.png
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\icons\coingecko.png
+Content Type: image/png
+
+Uri: https://pedrotheraccoon.org/assets/icons/coinmarketcap-svgrepo-com.svg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\icons\coinmarketcap-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://pedrotheraccoon.org/assets/icons/DX.png
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\icons\DX.png
+Content Type: image/png
+
+Uri: https://pedrotheraccoon.org/assets/icons/tg.png
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\icons\tg.png
+Content Type: image/png
+
+Uri: https://pedrotheraccoon.org/assets/icons/twitter-154-svgrepo-com.png
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\icons\twitter-154-svgrepo-com.png
+Content Type: image/png
+
+Uri: https://pedrotheraccoon.org/assets/img/festival.mp4
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\img\festival.mp4
+Content Type: video/mp4
+
+Uri: https://pedrotheraccoon.org/assets/img/img-button.jpg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\img\img-button.jpg
+Content Type: image/jpeg
+
+Uri: https://pedrotheraccoon.org/assets/img/mapache-pedro.gif
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\img\mapache-pedro.gif
+Content Type: image/gif
+
+Uri: https://pedrotheraccoon.org/assets/img/new_logo.png
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\img\new_logo.png
+Content Type: image/png
+
+Uri: https://pedrotheraccoon.org/assets/img/Pedroracoon.png
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\img\Pedroracoon.png
+Content Type: image/png
+
+Uri: https://pedrotheraccoon.org/assets/js/jupiter.js
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\js\jupiter.js
+Content Type: application/javascript
+
+Uri: https://pedrotheraccoon.org/assets/js/main.js
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://pedrotheraccoon.org/assets/logossocials/instagram-167-svgrepo-com.svg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\logossocials\instagram-167-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://pedrotheraccoon.org/assets/logossocials/tik-tok-svgrepo-com.svg
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\logossocials\tik-tok-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://pedrotheraccoon.org/assets/songs/IMG_0305.MOV
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\IMG_0305.MOV
+Content Type: video/quicktime
+
+Uri: https://pedrotheraccoon.org/assets/songs/IMG_0448.MOV
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\IMG_0448.MOV
+Content Type: video/quicktime
+
+Uri: https://pedrotheraccoon.org/assets/songs/mapachebailandoDEF.mp4
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\mapachebailandoDEF.mp4
+Content Type: video/mp4
+
+Uri: https://pedrotheraccoon.org/assets/songs/pedro2.MOV
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\pedro2.MOV
+Content Type: video/quicktime
+
+Uri: https://pedrotheraccoon.org/assets/songs/pedro3.MOV
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\pedro3.MOV
+Content Type: video/quicktime
+
+Uri: https://pedrotheraccoon.org/assets/songs/pedrovideo1.MOV
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\pedrovideo1.MOV
+Content Type: video/quicktime
+
+Uri: https://pedrotheraccoon.org/assets/songs/song_pedro.mp3
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\song_pedro.mp3
+Content Type: audio/mpeg
+
+Uri: https://pedrotheraccoon.org/assets/songs/Video3.MOV
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\assets\songs\Video3.MOV
+Content Type: video/quicktime
+
+Uri: https://terminal.jup.ag/main-v2.js
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\main-v2.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\boxicons@2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\boxicons@2.1.4\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\boxicons@2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\boxicons@2.1.4\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\boxicons@2.1.4\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\boxicons@2.1.4\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js
+File Name: C:\Downloaded Web Sites\pedrotheraccoon.org\scrollreveal@4.0.0\dist\scrollreveal.min.js
+Content Type: application/javascript
+
